@@ -1,2 +1,2 @@
 # SyncIntern
-task-1: Alarm Clock
+Python Programming internship
